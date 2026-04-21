@@ -284,7 +284,9 @@ forge test --match-test test_deposit -vvvv
 ## Demo
 
 - **Live Demo:** https://usdt0hub.vercel.app *(testnet deployment)*
-- **Demo Video:** [YouTube — USDT0Hub walkthrough](https://youtube.com/watch?v=TBD)
+- **Demo Video:** [YouTube — USDT0Hub walkthrough](https://youtu.be/aN47DfVBlp4)
+- **Pitch Deck:** [Slide Presentation](https://gamma.app/docs/Payroll-for-the-CNH-Corridor-In-Real-Time-xbladj628yvitn1)
+- **Twitter/X:** [Announcement Post](https://x.com/i/status/2046364674828967982)
 
 ---
 
