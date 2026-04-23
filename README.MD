@@ -23,7 +23,7 @@ USDT0Hub is the missing liquidity infrastructure layer for Conflux eSpace: one e
 ## Team
 
 - **Ikpia Emmanuel** — Full-Stack Developer & Project Lead (GitHub: [@Ikpia](https://github.com/Ikpia))
-- **Nosakhare Jesuorobo** — Lead Smart Contract Developer (GitHub: [@najnomics](https://github.com/najnomics), Discord: najnomics)
+
 
 ---
 
@@ -285,7 +285,7 @@ forge test --match-test test_deposit -vvvv
 
 - **Live Demo:** https://usdt0hub.vercel.app *(testnet deployment)*
 - **Demo Video:** [YouTube — USDT0Hub walkthrough](https://youtu.be/aN47DfVBlp4)
-- **Pitch Deck:** [Slide Presentation](https://gamma.app/docs/Payroll-for-the-CNH-Corridor-In-Real-Time-xbladj628yvitn1)
+- **Pitch Deck:** [Slide Presentation](https://gamma.app/docs/qm1kg9kkipkhpyd)
 - **Twitter/X:** [Announcement Post](https://x.com/i/status/2046364674828967982)
 
 ---
